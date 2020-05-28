@@ -2,7 +2,8 @@
 
 # #2 A complete guide how to modify  your template pptx in Python
 
-All module we are needed
+
+All the modules we need
 ```
 pip3 install os-sys
 pip3 install python-pptx
