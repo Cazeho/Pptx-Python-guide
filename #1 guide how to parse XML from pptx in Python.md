@@ -1,1 +1,0 @@
-# Pptx-Python-guide
