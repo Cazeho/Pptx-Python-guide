@@ -157,3 +157,6 @@ paramètre:  [$texte3]
 paramètre:  [$tableau]
 
 ```
+
+
+'code made in France'
