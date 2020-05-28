@@ -114,7 +114,7 @@ for slide in root.iter("slide"):
     for shape in slide.iter("shape"):
         print('shape_id:', shape.attrib["shape_id"] + " " + 'shape_type:',shape.attrib["shape_type"] + " " + 'shape_name:', shape.attrib["shape_name"])
         sql = shape.find('sql').text
-        #sql = sql.replace("]]>", "").replace("< ! [CDATA [", "")
+        sql = sql.replace("]]>", "").replace("< ! [CDATA [", "")
         print('SQL:  ',sql)
 
         
