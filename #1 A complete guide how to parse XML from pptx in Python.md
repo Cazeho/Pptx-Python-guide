@@ -82,3 +82,37 @@ for parametre in root.iter('parametre'):
     print('paramètre: ', parametre.text)
 
 ```
+
+Output
+
+```
+presentation
+{'author': '....', 'file_name': 'template.pptx'}
+-------------------------------------------------------
+slide : 1 slide_id : 256
+shape_id: 2 shape_type: TEXT_BOX (17) shape_name: Text 1
+SQL:   [$text1]
+shape_id: 4 shape_type: PICTURE (13) shape_name: picture 3
+SQL:   [$image_bin]
+-------------------------------------------------------
+slide : 2 slide_id : 257
+shape_id: 2 shape_type: TEXT_BOX (17) shape_name: Text 1
+SQL:   [$text2]
+shape_id: 5 shape_type: CHART (3) shape_name: Chart 4
+SQL:   [$chart]
+-------------------------------------------------------
+slide : 3 slide_id : 258
+shape_id: 2 shape_type: TEXT_BOX (17) shape_name: Text 1
+SQL:   [$texte3]
+shape_id: 4 shape_type: TABLE (19) shape_name: Table 3
+SQL:   [$tableau]
+-------------------------------------------------------
+paramètre:  None
+paramètre:  [$text1]
+paramètre:  [$image_bin]
+paramètre:  [$text2]
+paramètre:  [$chart]
+paramètre:  [$texte3]
+paramètre:  [$tableau]
+
+```
