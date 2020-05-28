@@ -149,3 +149,5 @@ os.startfile('report.pptx')#ouvre le pptx juste après l'execution
 
 # Output
 
+![rapport](https://user-images.githubusercontent.com/58745332/83176761-4d86eb80-a11e-11ea-9d58-27ad81b50600.PNG)
+
