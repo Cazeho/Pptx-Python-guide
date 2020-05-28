@@ -49,78 +49,36 @@ templateConfig.xml
 
 ```
 <?xml version="1.0"?>
-
--<presentation file_name="template.pptx" author="....">
-
-
--<slides>
-
-
--<slide slide_num="1" slide_id="256">
-
-
--<shape width="6.0" top="12.0" shape_type="TEXT_BOX (17)" shape_name="ZoneTexte 1" shape_id="2" left="9.0" height="5.0">
-
-<sql>< ! [CDATA [lolo]]></sql>
-
-</shape>
-
-
--<shape width="40.0" top="25.0" shape_type="PICTURE (13)" shape_name="Image 3" shape_id="4" left="27.0" height="55.0">
-
-<sql>< ! [CDATA [lolo]]></sql>
-
-</shape>
-
-</slide>
-
-
--<slide slide_num="2" slide_id="257">
-
-
--<shape width="26.0" top="15.0" shape_type="TEXT_BOX (17)" shape_name="ZoneTexte 1" shape_id="2" left="10.0" height="5.0">
-
-<sql>< ! [CDATA [lolo]]></sql>
-
-</shape>
-
-
--<shape width="59.0" top="21.0" shape_type="CHART (3)" shape_name="Graphique 4" shape_id="5" left="20.0" height="59.0">
-
-<sql>< ! [CDATA [lolo]]></sql>
-
-</shape>
-
-</slide>
-
-
--<slide slide_num="3" slide_id="258">
-
-
--<shape width="6.0" top="13.0" shape_type="TEXT_BOX (17)" shape_name="ZoneTexte 1" shape_id="2" left="7.0" height="5.0">
-
-<sql>< ! [CDATA [lolo]]></sql>
-
-</shape>
-
-
--<shape width="67.0" top="34.0" shape_type="TABLE (19)" shape_name="Tableau 3" shape_id="4" left="17.0" height="33.0">
-
-<sql>< ! [CDATA [lolo]]></sql>
-
-</shape>
-
-</slide>
-
-</slides>
-
-
--<parametres>
-
-<parametre parametre_type="" parametre_name=""/>
-
-</parametres>
-
+<presentation file_name="template.pptx" author="....">
+   <slides>
+       <slide slide_num="1" slide_id="256">
+           <shape width="6.0" top="12.0" shape_type="TEXT_BOX (17)" shape_name="ZoneTexte 1" shape_id="2" left="9.0" height="5.0">
+              <sql>< ! [CDATA [lolo]]></sql>
+           </shape>
+           <shape width="40.0" top="25.0" shape_type="PICTURE (13)" shape_name="Image 3" shape_id="4" left="27.0" height="55.0">
+              <sql>< ! [CDATA [lolo]]></sql>
+           </shape>
+       </slide>
+       <slide slide_num="2" slide_id="257">
+           <shape width="26.0" top="15.0" shape_type="TEXT_BOX (17)" shape_name="ZoneTexte 1" shape_id="2" left="10.0" height="5.0">
+              <sql>< ! [CDATA [lolo]]></sql>
+	   </shape>
+	   <shape width="59.0" top="21.0" shape_type="CHART (3)" shape_name="Graphique 4" shape_id="5" left="20.0" height="59.0">
+	      <sql>< ! [CDATA [lolo]]></sql>
+	   </shape>
+       </slide>
+       <slide slide_num="3" slide_id="258">
+           <shape width="6.0" top="13.0" shape_type="TEXT_BOX (17)" shape_name="ZoneTexte 1" shape_id="2" left="7.0" height="5.0">
+              <sql>< ! [CDATA [lolo]]></sql>
+	   </shape>
+           <shape width="67.0" top="34.0" shape_type="TABLE (19)" shape_name="Tableau 3" shape_id="4" left="17.0" height="33.0">
+              <sql>< ! [CDATA [lolo]]></sql>
+	   </shape>
+       </slide>
+   </slides>
+   <parametres>
+      <parametre parametre_type="" parametre_name=""/>
+   </parametres>
 </presentation>
 ```
 
