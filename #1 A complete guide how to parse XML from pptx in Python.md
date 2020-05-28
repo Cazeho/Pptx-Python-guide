@@ -13,7 +13,7 @@ pip3 install ElementTree
 
 # Step 1:
 
-Create your pptx template
+Create your pptx template: template.pptx
 
 ![template](https://user-images.githubusercontent.com/58745332/83173894-d9e2df80-a119-11ea-9b54-3f0452b65726.PNG)
 
