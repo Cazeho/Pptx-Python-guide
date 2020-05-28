@@ -8,6 +8,7 @@ All module we are needed
 ```
 pip3 install os-sys
 pip3 install python-pptx
+pip3 install lxml
 pip3 install ElementTree
 ```
 
