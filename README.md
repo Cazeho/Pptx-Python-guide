@@ -2,7 +2,7 @@
 Python
 
 
-<p><a href="/table.md">Table of Contents</a></p>
+<p><a href="/table.md#table-of-contents">Table of Contents</a></p>
 <ul>
 <li><a href="/%230%20Introduction.md#foreword">Foreword</a> (by <a href="https://twitter.com/---?" rel="nofollow">Cazeho</a>)</li>
 <li><a href="/%230%20Introduction.md#0-introduction">#0 Introduction</a></li>
