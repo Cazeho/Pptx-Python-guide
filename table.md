@@ -6,12 +6,12 @@
 <ul>
 <li>Foreword</li>
 <li>Preface</li>
-<li>Chapter 1: What Is JavaScript?
+<li>#1 A complete guide how to parse XML from pptx in Python
 <ul>
-<li>About This Book</li>
-<li>What's With That Name?</li>
-<li>Language Specification</li>
-<li>Many Faces</li>
+<li>Step 1</li>
+<li>Step 2</li>
+<li>Step 3</li>
+<li>Output</li>
 <li>Backwards &amp; Forwards</li>
 <li>What's in an Interpretation?</li>
 <li>Strictly Speaking</li>
