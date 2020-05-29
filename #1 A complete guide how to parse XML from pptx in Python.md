@@ -12,13 +12,13 @@ pip3 install elementpath
 pip3 install datetime
 ```
 
-# Step 1:
+# Step 1: Create your template
 
 Create your pptx template: template.pptx
 
 ![template](https://user-images.githubusercontent.com/58745332/83173894-d9e2df80-a119-11ea-9b54-3f0452b65726.PNG)
 
-# Step 2:
+# Step 2: Convert pptx to XML
 
 templateConfig.py
 
@@ -86,7 +86,7 @@ templateConfig.xml
 ```
 
 
-# Step 3:
+# Step 3: Parse XML with Python
 
 
 parse.py
