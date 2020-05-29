@@ -1,5 +1,5 @@
 
-<center><p><a href="/README.md#pptx-python-guide">MENU</a></p></center><a href="/%230%20Introduction.md#0-introduction">PREVIOUS</a></p><p align="right"><a href="/%232%20A%20complete%20guide%20how%20to%20modify%20%20your%20template%20pptx%20in%20Python.md">NEXT</a></p>
+<center><p><a href="/README.md#pptx-python-guide">MENU</a></p></center><a href="/%230%20Introduction.md#0-introduction">PREVIOUS</a><p align="right"><a href="/%232%20A%20complete%20guide%20how%20to%20modify%20%20your%20template%20pptx%20in%20Python.md">NEXT</a></p>
 
 # Pptx-Python-guide
 
