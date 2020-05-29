@@ -17,8 +17,8 @@
 </li>
 <li>#2 A complete guide how to modify your template pptx in Python
 <ul>
-<li>Step 1</li>
-<li>Step 2</li>
+<li>Step 1: Create your template</li>
+<li>Step 2: Modify your template with Python</li>
 <li>Output</li>
 <li>Backwards &amp; Forwards</li>
 </ul>
