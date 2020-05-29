@@ -10,6 +10,9 @@
 
 
 
+#3 A complete guide how to insert SQL data for pptx in Python : in progress
+
+# Foreword
 
 
 # #0 Introduction
