@@ -8,9 +8,9 @@
 <li>#0 introduction</li>
 <li>#1 A complete guide how to parse XML from pptx in Python
 <ul>
-<li>Step 1</li>
-<li>Step 2</li>
-<li>Step 3</li>
+<li>Step 1: Create your template</li>
+<li>Step 2: Convert pptx to XML</li>
+<li>Step 3: Parse XML with Python</li>
 <li>Output</li>
 <li>Backwards &amp; Forwards</li>
 </ul>
