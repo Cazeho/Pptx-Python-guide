@@ -5,7 +5,7 @@
 
 <ul>
 <li>Foreword</li>
-<li>Preface</li>
+<li>#0 introduction</li>
 <li>#1 A complete guide how to parse XML from pptx in Python
 <ul>
 <li>Step 1</li>
@@ -15,15 +15,12 @@
 <li>Backwards &amp; Forwards</li>
 </ul>
 </li>
-<li>Chapter 2: Surveying JS
+<li>#2 A complete guide how to modify your template pptx in Python
 <ul>
-<li>Each File is a Program</li>
-<li>Values</li>
-<li>Declaring and Using Variables</li>
-<li>Functions</li>
-<li>Comparisons</li>
-<li>How We Organize in JS</li>
-<li>The Rabbit Hole Deepens</li>
+<li>Step 1</li>
+<li>Step 2</li>
+<li>Output</li>
+<li>Backwards &amp; Forwards</li>
 </ul>
 </li>
 <li>Chapter 3: Digging To The Roots Of JS
