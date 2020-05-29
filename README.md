@@ -2,8 +2,6 @@
 Python
 
 ![Logopower](https://user-images.githubusercontent.com/58745332/83287152-7328f900-a1e1-11ea-807a-0bff08a2bd84.jpg)
-![logopy](https://user-images.githubusercontent.com/58745332/83287168-7b813400-a1e1-11ea-9091-fbf6cf715352.png)
-
 
 <p><a href="/table.md#table-of-contents">Table of Contents</a></p>
 <ul>
