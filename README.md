@@ -1,6 +1,7 @@
 # Pptx-Python-guide
 
 ![Logopower](https://user-images.githubusercontent.com/58745332/83287152-7328f900-a1e1-11ea-807a-0bff08a2bd84.jpg)
+![logopy](https://user-images.githubusercontent.com/58745332/83287586-37426380-a1e2-11ea-8d7f-56b59af66b54.jpg)
 
 <p><a href="/table.md#table-of-contents">Table of Contents</a></p>
 <ul>
