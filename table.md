@@ -13,9 +13,6 @@
 <li>Step 3</li>
 <li>Output</li>
 <li>Backwards &amp; Forwards</li>
-<li>What's in an Interpretation?</li>
-<li>Strictly Speaking</li>
-<li>Defined</li>
 </ul>
 </li>
 <li>Chapter 2: Surveying JS
