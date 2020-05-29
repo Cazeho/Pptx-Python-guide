@@ -5,6 +5,7 @@
 <li><a href="/getify/You-Dont-Know-JS/blob/2nd-ed/get-started/foreword.md">Foreword</a> (by <a href="https://twitter.com/holtbt" rel="nofollow">Cazeho</a>)</li>
 <li><a href="/getify/You-Dont-Know-JS/blob/2nd-ed/preface.md">#0 Introduction</a></li>
 <li><a href="/Cazeho/Pptx-Python-guide/blob/master/%231%20A%20complete%20guide%20how%20to%20parse%20XML%20from%20pptx%20in%20Python.md">#1 A complete guide how to parse XML from pptx in Python</a></li>
+  [Cazeho/Pptx-Python-guide/blob/master/%232%20A%20complete%20guide%20how%20to%20modify%20%20your%20template%20pptx%20in%20Python.md](url)
 </ul>
 
 
