@@ -14,6 +14,7 @@ pip3 install lxml
 pip3 install elementpath
 pip3 install datetime
 pip3 install cgi-tools
+pip install re101
 ```
 
 # Step 1: Create your template
